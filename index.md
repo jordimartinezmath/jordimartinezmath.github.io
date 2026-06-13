@@ -20,21 +20,8 @@ I am currently interested in the algebra and geometry of (big) mapping class gro
 I am currently thinking about normal subgroups of mapping class groups. To be more specific, problems and techniques involving [normal closures of mapping classes](https://arxiv.org/abs/1805.03666), coarse geometry of big mapping class groups, congruence subgroups, surface braid groups and Cantor braids.
 One main source of motivation for my research is the paper "[Normal subgroups of big mapping class groups](https://arxiv.org/abs/2110.07839)".
 
-## Publications
-
-{% include_relative _includes/publications.html %}
-
-## Notes and Presentations
-
-{% include_relative _includes/notes.html %}
 
 ## Teaching
-
-I have experience teaching the fundamental theorem of calculus
-\\[ \int_a^b f'(x) \, dx = f(b) - f(a) .\\]
-This is related to the isomorphism
-$\mathrm{Pic}^0(X) \cong H^0(X, \Omega^1)^\vee / H_1(X, \mathbb Z)$
-when $X$ is an algebraic curve.
 
 **University of Washington**
 
@@ -53,21 +40,6 @@ when $X$ is an algebraic curve.
 - Taiwanese J. Math.
 - Inventiones
 
-## Misc. Links
-
-- [MathSciNet](https://mathscinet.ams.org/mathscinet)
-- [Online Encyclopedia of Integer Sequences (OEIS)](https://oeis.org/)
-
-**Other template features:**
-- Mathjax enabled: use `$...$` or `\\(...\\)` for inline mode; use `\\[...\\]` for display mode
-
-- Markdown code:
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-    s.add_dependency(gem, "= #{version}")
-end
-```
 
 - Markdown for a math quote:
 > God is always doing geometry  
