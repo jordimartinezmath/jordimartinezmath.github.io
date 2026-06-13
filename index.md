@@ -25,19 +25,15 @@ One main source of motivation for my research is the paper "[Normal subgroups of
 
 **Instructor of record**
 
-- [Math 115](https://dept.math.lsa.umich.edu/courses/115/), Calculus 1, Fall 2019
-- [Math 208](https://sites.math.washington.edu/~m208/), Linear Algebra, Fall 2020
+- [Math1100]() Calculus 1, Fall 2026
+- [Math4453]() Euclid's Elements, Spring 2027
 
 **Teaching assistant**
 
 ## Service
 
 #### Organizer 
-- Student Combinatorics Seminar, University of Washington
-- Directed Reading Program
-
-
-
-- Markdown for a math quote:
+- Graduate Student Association, Vicepresident.
+- Directed Reading Program, Mentor.
 > In the end, the love you take is equal to the love you make  
 > -- The Beatles
