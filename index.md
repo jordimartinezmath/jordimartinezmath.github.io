@@ -11,20 +11,14 @@ I am currently interested in the algebra and geometry of (big) mapping class gro
 
 ## Places we may have met
 
-- **June 8 - June 12:** [Vanderbilt: Topology Students Workshop](https://margalit.droppages.net/tsw26/index.html). I highly recommend applying for this workshop!
-- **January 26 - January 30, 2026:** [SL Math: Topological and Geometric Structures in Low Dimensions & Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups](https://www.slmath.org/workshops/1125).
+- **June 8 - June 12. Vanderbilt:** [Topology Students Workshop](https://margalit.droppages.net/tsw26/index.html). I highly recommend applying for this workshop!
+- **January 26 - January 30, 2026. SL Math:** [Topological and Geometric Structures in Low Dimensions & Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups](https://www.slmath.org/workshops/1125).
 
 
 ## Research Interests
 
-- **Mapping Class Groups:** curves and Jacobians, Weierstrass points
+- **Mapping Class Groups:** Normal closures of mapping classes, coarse geometry of big mapping class groups, congruence subgroups, surface braid groups and Cantor braids.
 
-## News
-
-- **[Feb. 2020]** Seminar talk at NTU graduate student event
-- **[Feb. 2020]** Colloquium talk at Chung Hsing University 中興大學
-- **[Sept. 2019]** Started Ph.D. program at NTU
-- **[Mar. 2019]** Graduated from Univeristy of Washington with bachelors degree.
 
 ## Publications
 
