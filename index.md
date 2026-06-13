@@ -39,5 +39,5 @@ One main source of motivation for my research is the paper "[Normal subgroups of
 
 
 - Markdown for a math quote:
-> God is always doing geometry  
-> -- Plato
+> In the end, the love you take is equal to the love you make  
+> -- The Beatles
