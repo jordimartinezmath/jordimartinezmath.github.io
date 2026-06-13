@@ -4,19 +4,20 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at National Taiwan University, advised by [Chee-Chun Leung (梁次震)](https://www.theplan.it/eng/award-2020-Education/ntu-chee-chun-leung-cosmology-hall-a-floating-cube-in-space-kris-yao-artech).
-Before coming to NTU I studied math at the [University of Washington](http://math.washington.edu/).
+I am a 4th year Ph.D. student at Boston College, advised by [Ian Biringer](https://ianbiringer.net/).
+I am originally from [Mexicali, Mexico](https://en.wikipedia.org/wiki/Mexicali), .
 
-I study equations of the form $\int_0^\infty e^{-2\pi x^2} \, dx$.
-I am also interested in the  groups \\(H_k(\mathcal M_g, \mathbb Q)\\) and 
-$\pi_k(\mathrm{Sym}^\infty \mathcal M^\mathrm{trop}_g)$.
+I am currently interested in the algebra and geometry of (big) mapping class groups.
+
+## Places we may have met
+
+- **June 8 - June 12:** [Vanderbilt: Topology Students Workshop](https://margalit.droppages.net/tsw26/index.html). I highly recommend applying for this workshop!
+- **January 26 - January 30, 2026:** [SL Math: Topological and Geometric Structures in Low Dimensions & Geometry and Dynamics for Discrete Subgroups of Higher Rank Lie Groups](https://www.slmath.org/workshops/1125).
 
 
 ## Research Interests
 
-- **Tropical geometry:** curves and Jacobians, Weierstrass points
-- **Number theory:** uniform bounds on rational points, Riemann hypothesis
-- **Biology:** evolution of bats
+- **Mapping Class Groups:** curves and Jacobians, Weierstrass points
 
 ## News
 
