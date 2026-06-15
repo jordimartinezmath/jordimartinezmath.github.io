@@ -38,7 +38,7 @@ One main source of motivation for my research is the paper "[Normal subgroups of
 
 ## Teaching
 
-**Instructor of record**
+**Instructor of record, Boston College**
 
 - MATH1100 Calculus 1, Fall 2026
 - MATH4453 Euclid's Elements, Spring 2027
