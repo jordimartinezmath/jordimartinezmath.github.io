@@ -20,7 +20,7 @@ My mathematical interests are related to the algebra and geometry of (big) mappi
 
 
 ## Research interests
-I am currently thinking about normal subgroups of mapping class groups. To be more specific, problems and techniques involving [normal closures of mapping classes](https://arxiv.org/abs/1805.03666), coarse geometry of big mapping class groups, congruence subgroups, and surface braid groups.
+I am currently thinking about normal subgroups of mapping class groups. To be more specific, problems and techniques involving [normal closures of mapping classes](https://arxiv.org/abs/1805.03666), [large-scale geometry of big mapping class groups](https://arxiv.org/abs/1912.10914), [congruence subgroups](https://arxiv.org/pdf/2410.00556), and [surface braid groups](https://arxiv.org/abs/1806.08000).
 One main source of motivation for my research is the paper "[Normal subgroups of big mapping class groups](https://arxiv.org/abs/2110.07839)".
 
 ## Talks
