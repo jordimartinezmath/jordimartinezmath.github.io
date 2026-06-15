@@ -22,16 +22,16 @@ One main source of motivation for my research is the paper "[Normal subgroups of
 
 ## Talks
 **Boston College's graduate student seminar:**
--Algebraic simplicity of homeomorphism groups.
--Coxeter, Artin and the Salvetti complex.
--Braid Groups.
--The Mapping Class Groups of a genus 2 surface.
+- Algebraic simplicity of homeomorphism groups.
+- Coxeter, Artin and the Salvetti complex.
+- Braid Groups.
+- The Mapping Class Groups of a genus 2 surface.
 
 **HyperboliciTea (informal geometry/topology seminar at Boston College)**
--Normal subgroups of mapping class groups.
--The normal closure of classical braid groups in torus braid groups.
--The congruence subgroup problem.
--Purely pseudo-Anosov normal subgroups of mapping class groups.
+- Normal subgroups of mapping class groups.
+- The normal closure of classical braid groups in torus braid groups.
+- The congruence subgroup problem.
+- Purely pseudo-Anosov normal subgroups of mapping class groups.
 
 ## Teaching
 
