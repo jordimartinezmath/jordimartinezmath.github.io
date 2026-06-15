@@ -28,8 +28,6 @@ One main source of motivation for my research is the paper "[Normal subgroups of
 - MATH1100 Calculus 1, Fall 2026
 - MATH4453 Euclid's Elements, Spring 2027
 
-**Teaching assistant**
-
 ## Service
 
 - Graduate Student Association, Vicepresident.
