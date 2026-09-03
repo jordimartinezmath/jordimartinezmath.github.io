@@ -26,7 +26,7 @@ I earned my bachelor's degree at Universidad Autonoma de Nuevo Leon, and wrote a
 I am currently thinking about normal subgroups of mapping class groups. To be more specific, problems and techniques involving [normal closures of mapping classes](https://arxiv.org/abs/1805.03666), [large-scale geometry of big mapping class groups](https://arxiv.org/abs/1912.10914), [congruence subgroups](https://arxiv.org/pdf/2410.00556), and [surface braid groups](https://arxiv.org/abs/1806.08000).
 One main source of motivation for my research is the paper "[Normal subgroups of big mapping class groups](https://arxiv.org/abs/2110.07839)".
 
-## Talks
+## Expository talks
 **Boston College's graduate student seminar:**
 - Algebraic simplicity of homeomorphism groups.
 - Coxeter, Artin and the Salvetti complex. [Notes](assets/files/The_Salvetti_Complex.pdf).
@@ -42,12 +42,12 @@ One main source of motivation for my research is the paper "[Normal subgroups of
 ## Teaching
 
 **Instructor of record, Boston College**
-
-- MATH1100 Calculus 1, Fall 2026
 - MATH4453 Euclid's Elements, Spring 2027
+- MATH1100 Calculus 1, Fall 2026
+- MATH1100 Calculus 1, Fall 2025
+
 
 ## Service
-
 - Graduate Student Association, Vicepresident.
 - Directed Reading Program, Mentor. Projects: Introduction to mapping class groups, mentee Adam Wright. Surface braid groups, mentee Angie Wu.
   
