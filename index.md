@@ -23,7 +23,7 @@ I earned my bachelor's degree at Universidad Autonoma de Nuevo Leon, and wrote a
 
 
 ## Research interests
-I am currently thinking about normal subgroups of mapping class groups. To be more specific, problems and techniques involving [normal closures of mapping classes](https://arxiv.org/abs/1805.03666), [large-scale geometry of big mapping class groups](https://arxiv.org/abs/1912.10914), [congruence subgroups](https://arxiv.org/pdf/2410.00556), and [surface braid groups](https://arxiv.org/abs/1806.08000).
+I am currently thinking about normal subgroups of mapping class groups and surface braid groups on infinitely many strands. To be more specific, problems and techniques involving [normal closures of mapping classes](https://arxiv.org/abs/1805.03666), [large-scale geometry of big mapping class groups](https://arxiv.org/abs/1912.10914), [congruence subgroups](https://arxiv.org/pdf/2410.00556), and [surface braid groups](https://arxiv.org/abs/1806.08000).
 One main source of motivation for my research is the paper "[Normal subgroups of big mapping class groups](https://arxiv.org/abs/2110.07839)".
 
 ## Expository talks
