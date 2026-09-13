@@ -49,5 +49,6 @@ One main source of motivation for my research is the paper "[Normal subgroups of
 
 ## Service
 - Graduate Student Association, Vicepresident.
+- I'm co-organizing HyperboliciTea this year with Katerina Stuopis.
 - Directed Reading Program, Mentor. Projects: Introduction to mapping class groups, mentee Adam Wright. Surface braid groups, mentee Angie Wu.
   
