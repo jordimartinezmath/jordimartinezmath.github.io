@@ -27,7 +27,7 @@ I am currently thinking about normal subgroups of mapping class groups and surfa
 One main source of motivation for my research is the paper "[Normal subgroups of big mapping class groups](https://arxiv.org/abs/2110.07839)".
 
 ## Publications
-- Tame braid groups and a Birman exact sequence for infinite type surfaces - Joint with Ian Biringer. (In preparation.)
+- Tame braid groups and a Birman exact sequence for infinite type surfaces (In preparation.)
 
 ## Expository talks
 **Boston College's graduate student seminar:**
