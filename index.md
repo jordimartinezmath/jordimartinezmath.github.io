@@ -59,5 +59,7 @@ I am currently thinking about normal subgroups of mapping class groups and surfa
 ## Service
 - Graduate Student Association, Vicepresident.
 - I'm co-organizing HyperboliciTea this year with Katerina Stuopis.
-- Directed Reading Program, Mentor. Projects: Introduction to mapping class groups, mentee Adam Wright. Surface braid groups, mentee Angie Wu.
+- TA/TF Orientation (Fall 2026): STEM TA panelist.
+- TA/TF Orientation (Fall 2025): International student panelist.
+- Directed Reading Program (Spring 2026), Mentor. Projects: Introduction to mapping class groups, mentee Adam Wright. Surface braid groups, mentee Angie Wu.
   
