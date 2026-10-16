@@ -25,7 +25,7 @@ I earned my bachelor's degree at Universidad Autonoma de Nuevo Leon, and wrote a
 ## Research interests
 I am currently thinking about normal subgroups of mapping class groups and surface braid groups on infinitely many strands. To be more specific, problems and techniques involving [completions of infinite braid groups](https://arxiv.org/abs/math/0303042), [normal closures of mapping classes](https://arxiv.org/abs/1805.03666), [large-scale geometry of big mapping class groups](https://arxiv.org/abs/1912.10914), and [congruence subgroups](https://arxiv.org/pdf/2410.00556).
 
-## Publications
+## Writing
 - Tame braid groups and a Birman exact sequence for infinite type surfaces (In preparation.)
 
 ## Expository talks
