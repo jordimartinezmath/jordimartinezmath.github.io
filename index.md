@@ -38,7 +38,7 @@ I am currently thinking about normal subgroups of mapping class groups and surfa
 
 
 **HyperboliciTea (informal geometry/topology seminar at Boston College):**
-- Topologized fundamental groups.
+- Topologized fundamental groups. [Notes](assets/files/Topologized_fundamental_groups.pdf).
 - Normal subgroups of mapping class groups. [Notes](assets/files/Comprehensive examination 2026.pdf).
 - The normal closure of classical braid groups in torus braid groups. [Notes](assets/files/Torus_braid_group_normal_closure.pdf).
 - The congruence subgroup problem. [Notes](assets/files/The_congruence_subgroup_property.pdf).
