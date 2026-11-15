@@ -28,6 +28,9 @@ I am currently thinking about normal subgroups of mapping class groups and surfa
 ## Writing
 - Tame braid groups and a Birman exact sequence for infinite type surfaces (In preparation.)
 
+## Research talks
+- **November 14, 2026. Yale (lightning talk):** Tame braid groups and a Birman exact sequence for infinite type surfaces
+
 ## Expository talks
 **Boston College's graduate student seminar:**
 - Large-scale geometry of uncountable groups.
